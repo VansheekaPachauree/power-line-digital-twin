@@ -5,3 +5,4 @@ pillow
 matplotlib
 jupyter
 scikit-learn
+ultralytics
