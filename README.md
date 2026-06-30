@@ -121,7 +121,7 @@ Three notebooks document the pipeline in order:
 
 1. `01_explore_data.ipynb` — exploration of CPLID and GridNet-HD structure, file formats, and label schemes.
 2. `02_prepare_cplid.ipynb` — Pascal VOC → YOLO conversion, train/val split, dataset YAML.
-3. `03_lidar_extraction.ipynb` — LAS loading, infrastructure filtering, DBSCAN clustering, centroid computation, CSV export.
+3. `04_lidar_extraction.ipynb` — LAS loading, infrastructure filtering, DBSCAN clustering, centroid computation, CSV export.
 
 Training (`03_train_yolo.ipynb`) is run separately on Google Colab with a T4 GPU; the notebook is included for reference.
 
